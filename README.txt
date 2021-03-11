@@ -2,3 +2,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu ante id leo co
 Leonardo
 Vieira
 Soares
+Resolvendo merge (:
